@@ -24,6 +24,7 @@ I'm a passionate backend programmer on a journey to dive into the fascinating wo
 - Travel Enthusiast ✈️: Exploring the world and its diverse cultures.
 
 ## Let's Connect!
+Feel free to message me here!
 
 Feel free to explore my coding journey, share cat stories, or connect for discussions on backend development and machine learning. Excited to embark on this coding adventure together! 🚀
 
